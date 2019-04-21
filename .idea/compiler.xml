@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server-1" />
         <module name="eureka-server-2" />
+        <module name="microservice-consumer-movie" />
+        <module name="microservice-provider-user" />
+        <module name="microservice-provider-user-2" />
         <module name="SpringCloud" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
   </component>

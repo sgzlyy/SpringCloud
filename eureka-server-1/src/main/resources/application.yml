@@ -6,8 +6,8 @@ spring:
     name: eureka-server-1
 
 eureka:
-  instance:
-    hostname: localhost
+  #instance:
+    #hostname: localhost
   client:
     #registerWithEureka: false
     #fetchRegistry: false
